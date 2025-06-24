@@ -1,4 +1,4 @@
-library app_constants;
+library;
 
 import 'package:flutter/material.dart';
 
